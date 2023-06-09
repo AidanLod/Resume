@@ -1,3 +1,16 @@
+/*This project takes a number of iterations (-i) and size (-s) to create three arrays of 
+specified size and populate  two of them with random numbers between 0 and 1 inclusively. 
+After that is done it gets the sum of all the numbers in 4 different ways. The first is 
+the naïve single core where it steps through the two arrays 1 index value at a time and 
+populates the third array with the summed values within the corresponding index'. 
+The second uses NEON intrinsics to speed up the process by loading 4 values at a time 
+from the two populated arrays and summing them using ARM AARCH64 before storing them 
+in the third array. The third and fourth ways work the same as the first two except 
+the process is split evenly between the available cores to help speed up the process. 
+All of these are timed with the time being displayed to show the effectiveness of the 
+intrinsics and the threading. The summed results are provided as well to prove that all 
+methods are accurate.
+*/
 #include <iostream>
 #include <getopt.h>
 #include <cstdlib>
