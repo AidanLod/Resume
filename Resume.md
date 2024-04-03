@@ -34,4 +34,11 @@ Family-owned specialized meat market and store
 Part-time employee during high school and breaks through college. 
 The owners have entrusted me with increasing duties over time including cashier, assisting customers at the deli counter, and packaging products for sale.
 
+Philmont Scout Ranch - Cimarron, NM
+May 2022 - August 2022
+
+Functioning ranch that provides hiking and backcountry trip opportunities for members of the Boy Scouts of America.
+Full-time employee during the summer of 2022.
+Coming into the job I was employed as a Prep Cook and I was responsible for prepping food to be cooked for the scouts and staff at the CHQ. Less than halfway through the summer I was promoted to Lead Cook and became responsible for cooking all of the food for the scouts and staff, as well as ensuring that all food was finished on time for every meal.
+
 
