@@ -1,9 +1,9 @@
 Aidan Lodwig
 Sugar Grove, IL ● (630) 945-0913 ● aidanlods@gmail.com
 
-##CAREER OBJECTIVE
+## CAREER OBJECTIVE
 Motivated Computer Science student graduating May 2024 searching for a challenging role in which to apply my knowledge.
-##COURSEWORK
+## COURSEWORK
 Projects: 
 Whiteboard: Whiteboard application developed in an Agile environment using Unity and C#
 Automatic Attendance: Android app being developed using Java, Kotlin, Express and SQLite
@@ -14,7 +14,7 @@ Relevant Classes: Computer Organization, Data Structure, Agile Software Developm
 Languages: C/C++, ARM AARCH64, C#, Elixir, Python, Ruby, Java, Kotlin, and Bash	
 
 
-##EDUCATION & ACTIVITIES
+## EDUCATION & ACTIVITIES
 B.S. Computer Science, Carthage College
 Kenosha, WI
 GPA Computer Science 3.15/4.00
@@ -26,7 +26,7 @@ Built my own computer with an Intel i7 14900k, Radeon RX 6800 xt, 32 GB of ram, 
 Active participant in cross country and track throughout high school and college. Whether leading my team or providing support and encouragement, my goals have always been continuous personal improvement and the success of the team.
 Avid cook who enjoys trying out new recipes and cooking for family. 
 
-##WORK EXPERIENCE
+## WORK EXPERIENCE
 Reams Meat Market – Elburn, IL
 May 2019 – present
 
