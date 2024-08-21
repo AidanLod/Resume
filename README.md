@@ -1,6 +1,6 @@
 # Resume
 This is a repository of the projects that I feel best demonstrate my proficiency as a programmer.
-There are a handful of projects each with a description of what the projects do.
+There are a handful of projects each with a description of what the projects do.  
 **Links to Other Relevant Repos**  
 [TaskWatch](https://github.com/AidanLod/TaskWatch)  
 [2720 RPG](https://github.com/AidanLod/2720RPG)  
