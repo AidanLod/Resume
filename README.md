@@ -3,7 +3,6 @@ This is a repository of the projects that I feel best demonstrate my proficiency
 There are a handful of projects each with a description of what the projects do.
 
 Aidan Lodwig  
-
 Sugar Grove, IL ● (630) 945-0913 ● aidanlods@gmail.com
 
 **CAREER OBJECTIVE**
