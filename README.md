@@ -31,7 +31,6 @@ Motivated Computer Science student graduating May 2024 searching for a challengi
 
 * Built my own computer with an Intel i7 14900k, Radeon RX 6800 xt, 32 GB of ram, with both Windows 11 and Void linux as bootable OS’.  
 * Active participant in cross country and track throughout high school and college. Whether leading my team or providing support and encouragement, my goals have always been continuous personal improvement and the success of the team.  
-* 
 
 **WORK EXPERIENCE**
 
