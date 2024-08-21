@@ -21,7 +21,7 @@ Motivated Computer Science student graduating May 2024 searching for a challengi
 **Projects:** 
 
 * **Whiteboard:** Whiteboard application developed in an Agile environment using Unity and C\#  
-* **Productivity Tracker:** Linux program that tracks active programs built using C++, SQLite, Bash and Qt Creator   
+* **TaskWatch:** Linux program that tracks active programs built using C++, SQLite, Bash and Qt Creator   
 * **Custom Linux System:** Linux system being developed following the Linux from Scratch book using C, Perl, and Assembly  
 * **Personal Linux Server:** Linux server being made using an old laptop,  to be used for backing up and retrieving data
 
