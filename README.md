@@ -4,7 +4,6 @@ There are a handful of projects each with a description of what the projects do.
 **Links to Other Relevant Repos**  
 [TaskWatch](https://github.com/AidanLod/TaskWatch)  
 [2720 RPG](https://github.com/AidanLod/2720RPG)  
-[WhiteBoard.exe](https://github.com/AidanLod/Whiteboard)  
 
 Aidan Lodwig  
 Sugar Grove, IL ● (630) 945-0913 ● aidanlods@gmail.com
